@@ -65,7 +65,6 @@ siem-web/
 
 - **Python 3.10+**
 - pip packages (see `requirements.txt`):
-
 | Package | Min Version | Purpose |
 |---|---|---|
 | `fastapi` | 0.100.0 | Web framework |
